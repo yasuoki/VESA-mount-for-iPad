@@ -8,7 +8,7 @@ Monitor mount
 
 ## Feature
 - Compatible with VESA 100mm monitor arm.
-- Fits 7th generation or later iPads.
+- Fits 7th~9th generation iPads.
 - Holds iPad in portrait or landscape orientation.
 - The iPad is held in place simply by inserting it into the slit, eliminating the hassle of clip-on/off.
 - The adapter(MonitorAdapter.stl) can be attached to 75mm VESA-mount display monitor and held by plugging it into the slit in the same way as the iPad.
